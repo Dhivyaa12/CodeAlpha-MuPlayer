@@ -9,10 +9,10 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "If We Have Each Other [NCS Release]", filePath: "songs/1.mp3", coverPath: "covers/1..jpg"},
-    {songName: "Nee Yenadhaaruginil Nee [NCS Release]", filePath:"songs/2.mp3", coverpath: "covers/2.jpg"},
-    {songName: "Kadhal Kanave [NCS Release]", filePath: "songs/3.mp3", coverpath: "covers/3.jpg"},
+    {songName: "Alibi [NCS Release]", filePath:"songs/2.mp3", coverpath: "covers/2.jpg"},
+    {songName: "Pala Palli [NCS Release]", filePath: "songs/3.mp3", coverpath: "covers/3.jpg"},
     {songName: "BLUE[NCS Release]", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
-    {songName: "LOVERS HURRICANE [NCS Release]", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Espresso [NCS Release]", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
 ]
 
 songItems.forEach((element, i)=>{
